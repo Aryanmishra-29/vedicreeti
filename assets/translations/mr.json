@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "मुख्यपृष्ठ",
+    "panchang": "पंचांग",
+    "shop": "दुकान",
+    "profile": "प्रोफाईल"
+  },
+  "ui": {
+    "karma_points": "कर्मा पॉइंट्स",
+    "points_to_gold_tier": "गोल्ड टियरसाठी पॉइंट्स",
+    "view_tasks_rewards": "टास्क आणि रिवॉर्ड्स पहा",
+    "the_sacred_hub": "द सेक्रेड हब",
+    "sacred_acquisitions": "पवित्र संपादन",
+    "my_orders_bookings": "माझ्या ऑर्डर्स आणि बुकिंग्स",
+    "divine_wishlist": "डिव्हाईन विशलिस्ट",
+    "saved_products_pujas": "सेव्ह केलेली उत्पादने आणि पूजा",
+    "vedic_concierge": "वैदिक कंसीयर्ज",
+    "premium_support_chat": "प्रीमियम सपोर्ट आणि ज्योतिषी चॅट",
+    "app_developed_by": "आर्यन मिश्रा द्वारे अ‍ॅप आर्किटेक्ट आणि विकसित",
+    "step_details": "तपशील",
+    "step_date": "तारीख",
+    "step_confirm": "पुष्टी करा",
+    "selected_spiritual_service": "निवडलेली आध्यात्मिक सेवा",
+    "premium_service_desc": "ही प्रीमियम सेवा आमच्या सत्यापित पंडितांद्वारे प्रामाणिक वैदिक विधींसह पार पाडली जाईल.",
+    "use_saved_profile": "सेव्ह केलेली प्रोफाईल वापरा",
+    "continue_btn": "सुरू ठेवा",
+    "back_btn": "मागे",
+    "all_products": "सर्व उत्पादने",
+    "exclusive_offer": "विशेष ऑफर",
+    "explore": "अन्वेषण करा",
+    "upcoming_festivals": "आगामी उपवास आणि सण",
+    "active_reminders": "सक्रिय स्मरणपत्रे",
+    "quick_puja_mantras": "क्विक पूजा आणि मंत्र",
+    "premium_puja_services": "प्रीमियम पूजा सेवा",
+    "aarti": "आरती",
+    "view_all_aartis": "सर्व आरत्या पहा",
+    "chalisa": "चालीसा",
+    "view_all_chalisas": "सर्व चालीसा पहा",
+    "mantras": "मंत्र",
+    "view_all_mantras": "सर्व मंत्र पहा",
+    "spiritual_store": "आध्यात्मिक स्टोअर",
+    "buy_now": "आता खरेदी करा",
+    "in_stock": "स्टॉकमध्ये",
+    "mystical_astro_dashboard": "मिस्टिकल अ‍ॅस्ट्रो डॅशबोर्ड",
+    "abhijit_muhurat": "अभिजित मुहूर्त",
+    "rahu_kaal": "राहू काळ",
+    "amrit_kaal": "अमृत काळ",
+    "autofill_title": "बुकिंग तपशील ऑटोफिल करा",
+    "enter_manually": "मॅन्युअली प्रविष्ट करा",
+    "full_name": "पूर्ण नाव",
+    "gotra": "गोत्र",
+    "dob": "जन्मतारीख निवडा",
+    "is_married": "आपण विवाहित आहात का?",
+    "puja_sankalp": "पूजेचा हेतू (संकल्प)",
+    "theme_notifications": "थीम आणि सूचना",
+    "gotra_label": "गोत्र: ",
+    "rashi_label": "रास: ",
+    "loyalty_tier": "लॉयल्टी टियर",
+    "silver_devotee": "सिल्व्हर भक्त",
+    "puja_vidhi": "पूजा विधी",
+    "book_now": "आता बुक करा"
+  },
+  "alarm": {
+    "snooze": "स्नूझ\n(५ मिनिटे)",
+    "turn_off": "बंद करा"
+  },
+  "profile": {
+    "title": "माझी प्रोफाईल आणि सेटिंग्ज",
+    "sections": {
+      "account": "खाते आणि क्रियाकलाप",
+      "settings": "सेटिंग्ज आणि प्राधान्ये",
+      "support": "सपोर्ट आणि कायदेशीर"
+    },
+    "menu": {
+      "bookings": "माझे पूजा बुकिंग्स",
+      "wallet": "वॉलेट आणि पेमेंट्स",
+      "addresses": "सेव्ह केलेले पत्ते",
+      "language": "भाषा",
+      "notifications": "सूचना",
+      "contact": "24/7 सपोर्टशी संपर्क साधा",
+      "terms": "अटी आणि गोपनीयता"
+    },
+    "wallet": {
+      "balance": "उपलब्ध शिल्लक",
+      "saved_methods": "सेव्ह केलेल्या पेमेंट पद्धती",
+      "transactions": "व्यवहाराचा इतिहास"
+    },
+    "logout": "लॉग आउट",
+    "login_prompt": "आपली प्रोफाईल आणि प्रीमियम सेवा पाहण्यासाठी लॉग इन करा.",
+    "login_btn": "लॉग इन / साइन अप",
+    "welcome": "सुस्वागतम,"
+  },
+  "book_now": "आता बुक करा",
+  "price_inquiry": "किंमत चौकशी",
+  "checkout": {
+    "title": "सुरक्षित डिव्हाईन चेकआउट",
+    "select_slot": "मुहूर्त आणि तारीख निवडा",
+    "proceed_btn": "डिव्हाईन पेमेंटसाठी पुढे जा"
+  },
+  "settings": {
+    "app_preferences": "अ‍ॅप प्राधान्ये",
+    "app_language": "अ‍ॅप भाषा",
+    "alarm_settings": "अलार्म सेटिंग्ज",
+    "custom_reminder_sound": "कस्टम रिमाइंडर साउंड",
+    "default_flute": "डिफॉल्ट बासरी"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "ਹੋਮ",
+    "panchang": "ਪੰਚਾਂਗ",
+    "shop": "ਦੁਕਾਨ",
+    "profile": "ਪ੍ਰੋਫਾਈਲ"
+  },
+  "ui": {
+    "karma_points": "ਕਰਮ ਪੁਆਇੰਟ",
+    "points_to_gold_tier": "ਗੋਲਡ ਟੀਅਰ ਲਈ ਪੁਆਇੰਟ",
+    "view_tasks_rewards": "ਕੰਮ ਅਤੇ ਇਨਾਮ ਦੇਖੋ",
+    "the_sacred_hub": "ਦ ਸੇਕ੍ਰੇਡ ਹਬ",
+    "sacred_acquisitions": "ਪਵਿੱਤਰ ਪ੍ਰਾਪਤੀਆਂ",
+    "my_orders_bookings": "ਮੇਰੇ ਆਰਡਰ ਅਤੇ ਬੁਕਿੰਗ",
+    "divine_wishlist": "ਡਿਵਾਈਨ ਵਿਸ਼ਲਿਸਟ",
+    "saved_products_pujas": "ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਉਤਪਾਦ ਅਤੇ ਪੂਜਾ",
+    "vedic_concierge": "ਵੈਦਿਕ ਕੰਸੀਅਰਜ",
+    "premium_support_chat": "ਪ੍ਰੀਮੀਅਮ ਸਪੋਰਟ ਅਤੇ ਜੋਤਸ਼ੀ ਚੈਟ",
+    "app_developed_by": "ਆਰੀਅਨ ਮਿਸ਼ਰਾ ਦੁਆਰਾ ਐਪ ਆਰਕੀਟੈਕਟ ਅਤੇ ਵਿਕਸਿਤ ਕੀਤਾ ਗਿਆ",
+    "step_details": "ਵੇਰਵੇ",
+    "step_date": "ਤਾਰੀਖ",
+    "step_confirm": "ਪੁਸ਼ਟੀ ਕਰੋ",
+    "selected_spiritual_service": "ਚੁਣੀ ਗਈ ਅਧਿਆਤਮਿਕ ਸੇਵਾ",
+    "premium_service_desc": "ਇਹ ਪ੍ਰੀਮੀਅਮ ਸੇਵਾ ਸਾਡੇ ਪ੍ਰਮਾਣਿਤ ਪੰਡਤਾਂ ਦੁਆਰਾ ਪ੍ਰਮਾਣਿਕ ਵੈਦਿਕ ਰੀਤੀ ਰਿਵਾਜਾਂ ਨਾਲ ਨਿਭਾਈ ਜਾਵੇਗੀ।",
+    "use_saved_profile": "ਸੇਵ ਕੀਤੀ ਪ੍ਰੋਫਾਈਲ ਵਰਤੋ",
+    "continue_btn": "ਜਾਰੀ ਰੱਖੋ",
+    "back_btn": "ਪਿੱਛੇ",
+    "all_products": "ਸਾਰੇ ਉਤਪਾਦ",
+    "exclusive_offer": "ਵਿਸ਼ੇਸ਼ ਪੇਸ਼ਕਸ਼",
+    "explore": "ਪੜਚੋਲ ਕਰੋ",
+    "upcoming_festivals": "ਆਗਾਮੀ ਵਰਤ ਅਤੇ ਤਿਉਹਾਰ",
+    "active_reminders": "ਸਰਗਰਮ ਰੀਮਾਈਂਡਰ",
+    "quick_puja_mantras": "ਤੁਰੰਤ ਪੂਜਾ ਅਤੇ ਮੰਤਰ",
+    "premium_puja_services": "ਪ੍ਰੀਮੀਅਮ ਪੂਜਾ ਸੇਵਾਵਾਂ",
+    "aarti": "ਆਰਤੀ",
+    "view_all_aartis": "ਸਾਰੀਆਂ ਆਰਤੀਆਂ ਦੇਖੋ",
+    "chalisa": "ਚਾਲੀਸਾ",
+    "view_all_chalisas": "ਸਾਰੀਆਂ ਚਾਲੀਸਾ ਦੇਖੋ",
+    "mantras": "ਮੰਤਰ",
+    "view_all_mantras": "ਸਾਰੇ ਮੰਤਰ ਦੇਖੋ",
+    "spiritual_store": "ਅਧਿਆਤਮਿਕ ਸਟੋਰ",
+    "buy_now": "ਹੁਣੇ ਖਰੀਦੋ",
+    "in_stock": "ਸਟਾਕ ਵਿੱਚ",
+    "mystical_astro_dashboard": "ਮਿਸਟੀਕਲ ਐਸਟ੍ਰੋ ਡੈਸ਼ਬੋਰਡ",
+    "abhijit_muhurat": "ਅਭਿਜੀਤ ਮੁਹੂਰਤ",
+    "rahu_kaal": "ਰਾਹੂ ਕਾਲ",
+    "amrit_kaal": "ਅੰਮ੍ਰਿਤ ਕਾਲ",
+    "autofill_title": "ਬੁਕਿੰਗ ਵੇਰਵੇ ਆਟੋਫਿਲ ਕਰੋ",
+    "enter_manually": "ਹੱਥੀਂ ਦਰਜ ਕਰੋ",
+    "full_name": "ਪੂਰਾ ਨਾਮ",
+    "gotra": "ਗੋਤਰ",
+    "dob": "ਜਨਮ ਮਿਤੀ ਚੁਣੋ",
+    "is_married": "ਕੀ ਤੁਸੀਂ ਵਿਆਹੇ ਹੋ?",
+    "puja_sankalp": "ਪੂਜਾ ਦਾ ਉਦੇਸ਼ (ਸੰਕਲਪ)",
+    "theme_notifications": "ਥੀਮ ਅਤੇ ਸੂਚਨਾਵਾਂ",
+    "gotra_label": "ਗੋਤਰ: ",
+    "rashi_label": "ਰਾਸ਼ੀ: ",
+    "loyalty_tier": "ਲਾਇਲਟੀ ਟੀਅਰ",
+    "silver_devotee": "ਸਿਲਵਰ ਭਗਤ",
+    "puja_vidhi": "ਪੂਜਾ ਵਿਧੀ",
+    "book_now": "ਹੁਣੇ ਬੁੱਕ ਕਰੋ"
+  },
+  "alarm": {
+    "snooze": "ਸਨੂਜ਼\n(5 ਮਿੰਟ)",
+    "turn_off": "ਬੰਦ ਕਰੋ"
+  },
+  "profile": {
+    "title": "ਮੇਰੀ ਪ੍ਰੋਫਾਈਲ ਅਤੇ ਸੈਟਿੰਗਜ਼",
+    "sections": {
+      "account": "ਖਾਤਾ ਅਤੇ ਗਤੀਵਿਧੀ",
+      "settings": "ਸੈਟਿੰਗਜ਼ ਅਤੇ ਤਰਜੀਹਾਂ",
+      "support": "ਸਹਾਇਤਾ ਅਤੇ ਕਾਨੂੰਨੀ"
+    },
+    "menu": {
+      "bookings": "ਮੇਰੀ ਪੂਜਾ ਬੁਕਿੰਗ",
+      "wallet": "ਵਾਲਿਟ ਅਤੇ ਭੁਗਤਾਨ",
+      "addresses": "ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਪਤੇ",
+      "language": "ਭਾਸ਼ਾ",
+      "notifications": "ਸੂਚਨਾਵਾਂ",
+      "contact": "24/7 ਸਹਾਇਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+      "terms": "ਨਿਯਮ ਅਤੇ ਗੋਪਨੀਯਤਾ"
+    },
+    "wallet": {
+      "balance": "ਉਪਲਬਧ ਬੈਲੇਂਸ",
+      "saved_methods": "ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਭੁਗਤਾਨ ਢੰਗ",
+      "transactions": "ਲੈਣ-ਦੇਣ ਦਾ ਇਤਿਹਾਸ"
+    },
+    "logout": "ਲੌਗ ਆਉਟ",
+    "login_prompt": "ਆਪਣੀ ਪ੍ਰੋਫਾਈਲ ਅਤੇ ਪ੍ਰੀਮੀਅਮ ਸੇਵਾਵਾਂ ਦੇਖਣ ਲਈ ਲੌਗ ਇਨ ਕਰੋ।",
+    "login_btn": "ਲੌਗ ਇਨ / ਸਾਈਨ ਅਪ",
+    "welcome": "ਜੀ ਆਇਆਂ ਨੂੰ,"
+  },
+  "book_now": "ਹੁਣੇ ਬੁੱਕ ਕਰੋ",
+  "price_inquiry": "ਕੀਮਤ ਦੀ ਪੁੱਛਗਿੱਛ",
+  "checkout": {
+    "title": "ਸੁਰੱਖਿਅਤ ਡਿਵਾਈਨ ਚੈਕਆਉਟ",
+    "select_slot": "ਮੁਹੂਰਤ ਅਤੇ ਤਾਰੀਖ ਚੁਣੋ",
+    "proceed_btn": "ਡਿਵਾਈਨ ਭੁਗਤਾਨ ਲਈ ਅੱਗੇ ਵਧੋ"
+  },
+  "settings": {
+    "app_preferences": "ਐਪ ਤਰਜੀਹਾਂ",
+    "app_language": "ਐਪ ਭਾਸ਼ਾ",
+    "alarm_settings": "ਅਲਾਰਮ ਸੈਟਿੰਗਜ਼",
+    "custom_reminder_sound": "ਕਸਟਮ ਰੀਮਾਈਂਡਰ ਧੁਨੀ",
+    "default_flute": "ਡਿਫਾਲਟ ਬੰਸਰੀ"
+  }
+}

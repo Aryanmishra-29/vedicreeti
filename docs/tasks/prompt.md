@@ -1,0 +1,1 @@
+TASK: Fix the Layout Jitter in live_panchang_card.dart by wrapping the periodically updating clock/timer widget in a strict ConstrainedBox or SizedBox with fixed dimensions, and apply tabular figures to the text style so the layout below it does not shake when seconds tick.

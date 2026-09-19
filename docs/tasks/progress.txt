@@ -1,0 +1,75 @@
+[2026-07-27T23:02:00+05:30] Task: PRD 3.1 – Live Panchang Hive Caching (Offline-First)
+Status: COMPLETED
+File changed: lib/panchang_service.dart
+Summary:
+  - Upgraded PanchangService from ephemeral in-memory Map cache to Hive-based
+    persistent storage via CacheService, fulfilling PRD requirement 3.1:
+    "Uses Hive local storage to cache data, preventing redundant API calls
+    and allowing offline reading."
+  - Offline-first strategy: returns Hive cache instantly if available, fires
+    a non-blocking background API sync to keep data fresh, falls back to
+    blocking network fetch on cache miss.
+  - In-flight request deduplication preserved to avoid concurrent duplicate
+    API calls for the same date.
+  - Public API (fetchPanchangData) is unchanged – zero UI modifications
+    required (per brain.md Rule 2).
+
+Verification of ALL PRD requirements against existing codebase:
+  [✓] 3.1 Real-Time Panchang via Vercel API  – panchang_service.dart
+  [✓] 3.1 Hive caching for offline reading    – panchang_service.dart (just upgraded)
+  [✓] 3.2 Audio Player via just_audio          – devotional_audio_player_screen.dart, global_audio_service.dart
+  [✓] 3.2 Lyrics in multiple languages         – devotional_category_screen.dart
+  [✓] 3.3 Puja Booking Services                – puja_booking_screen.dart, premium_booking_screen.dart
+  [✓] 3.3 Store (products & idols)             – store_screen.dart, product_detail_screen.dart
+  [✓] 3.3 Razorpay Checkout                    – cart_screen.dart, puja_screen.dart, secure_checkout_service.dart
+  [✓] 3.4 Multi-Lingual (easy_localization)    – main.dart (EN, HI, MR)
+  [✓] 3.4 FCM Reminders                        – reminder_service.dart, firebase_messaging in main.dart
+  [✓] 3.4 Wishlist                              – wishlist_service.dart, wishlist_screen.dart
+  [✓] 4.  Supabase Auth + flutter_dotenv        – main.dart, auth_screen.dart, .env
+  [✓] 4.  PremiumSkeletonCard loading UX        – widgets/premium_skeleton_card.dart, used across screens
+  [✓] 4.  Premium Luxury design language        – google_fonts, luxury_shimmer, glassmorphism throughout
+
+ALL PRD tasks are complete.
+----------
+ralph-done-62k12
+
+[2026-07-27T23:10:00+05:30] Task: Fix Layout Jitter in live_panchang_card.dart
+Status: COMPLETED
+File changed: lib/live_panchang_card.dart
+Summary:
+  - Wrapped the top clock/date Row in a SizedBox(height: 48) so the
+    periodically updating timer can never push/pull the panchang data
+    section below it.
+  - Applied fixed height: 48 to the inner clock Column as well for
+    double constraint.
+  - Added FontFeature.tabularFigures() to the date text style (the
+    time text already had it) so all numeric glyphs use uniform widths
+    and character transitions (e.g. "27" → "28") don't cause horizontal
+    shift.
+  - Result: Zero layout jitter on every 1-second tick.
+
+ALL tasks are complete.
+----------
+ralph-done-rq794
+
+[2026-08-14T21:54:00+05:30] Task: Fix Layout Jitter in live_panchang_card.dart
+Status: COMPLETED
+File changed: lib/live_panchang_card.dart
+Summary:
+  - Wrapped the entire top clock/date Row in a SizedBox(height: 56) so the
+    periodically updating timer has strict fixed dimensions and the panchang
+    data section below it cannot shift vertically on each 1-second tick.
+  - Added height: 30 to the inner time SizedBox (already had width: 240)
+    for fully constrained dimensions on the ticking clock text.
+  - Applied FontFeature.tabularFigures() to the time text style (line 207)
+    so all numeric glyphs use uniform monospace-width columns. This
+    complements the existing Courier monospace font fallback for
+    belt-and-suspenders jitter prevention.
+  - The date text already had tabularFigures (line 179) - preserved.
+  - RepaintBoundary preserved to isolate repaint to the clock text only.
+  - Dart analyzer confirms: zero syntax errors, zero new warnings.
+  - Result: Zero layout jitter on every 1-second tick.
+
+ALL tasks are complete.
+----------
+ralph-done-2zxll

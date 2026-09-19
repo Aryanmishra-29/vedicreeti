@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "Home",
+    "panchang": "Panchang",
+    "shop": "Shop",
+    "profile": "Profile"
+  },
+  "ui": {
+    "karma_points": "Karma Points",
+    "points_to_gold_tier": "points to Gold Tier",
+    "view_tasks_rewards": "View Tasks & Rewards",
+    "the_sacred_hub": "THE SACRED HUB",
+    "sacred_acquisitions": "Sacred Acquisitions",
+    "my_orders_bookings": "My Orders & Bookings",
+    "divine_wishlist": "Divine Wishlist",
+    "saved_products_pujas": "Saved Products & Pujas",
+    "vedic_concierge": "Vedic Concierge",
+    "premium_support_chat": "Premium Support & Astrologer Chat",
+    "app_developed_by": "App Architected & Developed by Aryan Mishra",
+    "step_details": "Details",
+    "step_date": "Date",
+    "step_confirm": "Confirm",
+    "selected_spiritual_service": "Selected Spiritual Service",
+    "premium_service_desc": "This premium service will be performed with authentic Vedic rituals by our verified pandits.",
+    "use_saved_profile": "Use Saved Profile",
+    "continue_btn": "Continue",
+    "back_btn": "Back",
+    "all_products": "ALL PRODUCTS",
+    "exclusive_offer": "EXCLUSIVE OFFER",
+    "explore": "EXPLORE",
+    "upcoming_festivals": "Upcoming Fasts & Festivals",
+    "active_reminders": "Active Reminders",
+    "quick_puja_mantras": "QUICK PUJA & MANTRAS",
+    "premium_puja_services": "PREMIUM PUJA SERVICES",
+    "aarti": "Aarti",
+    "view_all_aartis": "View All Aartis",
+    "chalisa": "Chalisa",
+    "view_all_chalisas": "View All Chalisas",
+    "mantras": "Mantras",
+    "view_all_mantras": "View All Mantras",
+    "spiritual_store": "Spiritual Store",
+    "buy_now": "Buy Now",
+    "in_stock": "in stock",
+    "mystical_astro_dashboard": "Mystical Astro Dashboard",
+    "abhijit_muhurat": "Abhijit Muhurat",
+    "rahu_kaal": "Rahu Kaal",
+    "amrit_kaal": "Amrit Kaal",
+    "autofill_title": "Autofill Booking Details",
+    "enter_manually": "Enter Manually",
+    "full_name": "Full Name",
+    "gotra": "Gotra",
+    "dob": "Select Date of Birth",
+    "is_married": "Are you married?",
+    "puja_sankalp": "Purpose of Puja (Sankalp)",
+    "theme_notifications": "Theme & Notifications",
+    "gotra_label": "Gotra: ",
+    "rashi_label": "Rashi: ",
+    "loyalty_tier": "LOYALTY TIER",
+    "silver_devotee": "Silver Devotee",
+    "puja_vidhi": "Puja Vidhi",
+    "book_now": "Book Now"
+  },
+  "alarm": {
+    "snooze": "SNOOZE\n(5 MIN)",
+    "turn_off": "TURN OFF"
+  },
+  "profile": {
+    "title": "My Profile & Settings",
+    "sections": {
+      "account": "ACCOUNT & ACTIVITY",
+      "settings": "SETTINGS & PREFERENCES",
+      "support": "SUPPORT & LEGAL"
+    },
+    "menu": {
+      "bookings": "My Puja Bookings",
+      "wallet": "Wallet & Payments",
+      "addresses": "Saved Addresses",
+      "language": "Language (भाषा)",
+      "notifications": "Notifications",
+      "contact": "Contact Support 24/7",
+      "terms": "Terms & Privacy"
+    },
+    "wallet": {
+      "balance": "Available Balance",
+      "saved_methods": "SAVED PAYMENT METHODS",
+      "transactions": "TRANSACTION HISTORY"
+    },
+    "logout": "LOGOUT",
+    "login_prompt": "Log in to view your profile and premium services.",
+    "login_btn": "Login / Sign Up",
+    "welcome": "Welcome,"
+  },
+  "book_now": "Book Now",
+  "price_inquiry": "Price Inquiry",
+  "checkout": {
+    "title": "Secure Divine Checkout",
+    "select_slot": "SELECT MUHURAT & DATE",
+    "proceed_btn": "Proceed to Divine Payment"
+  },
+  "settings": {
+    "app_preferences": "App Preferences",
+    "app_language": "App Language",
+    "alarm_settings": "Alarm Settings",
+    "custom_reminder_sound": "Custom Reminder Sound",
+    "default_flute": "Default Flute"
+  }
+}

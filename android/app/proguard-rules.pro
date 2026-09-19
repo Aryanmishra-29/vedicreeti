@@ -1,0 +1,3 @@
+-keep class com.supabase.** { *; }
+-keep class io.github.jan.supabase.** { *; }
+-keepattributes EnclosingMethod,InnerClasses,Signature,*Annotation*,PermittedSubclasses

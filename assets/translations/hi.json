@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "home": "होम",
+    "panchang": "पंचांग",
+    "shop": "शॉप",
+    "profile": "प्रोफ़ाइल"
+  },
+  "ui": {
+    "karma_points": "कर्म पॉइंट्स",
+    "points_to_gold_tier": "गोल्ड टियर के लिए पॉइंट्स",
+    "view_tasks_rewards": "टास्क और इनाम देखें",
+    "the_sacred_hub": "पवित्र केंद्र",
+    "sacred_acquisitions": "पवित्र प्राप्तियां",
+    "my_orders_bookings": "मेरे ऑर्डर और बुकिंग",
+    "divine_wishlist": "दिव्य विशलिस्ट",
+    "saved_products_pujas": "सहेजे गए उत्पाद और पूजा",
+    "vedic_concierge": "वैदिक कंसीयज",
+    "premium_support_chat": "प्रीमियम सपोर्ट और ज्योतिषी चैट",
+    "app_developed_by": "आर्यन मिश्रा द्वारा डिज़ाइन और विकसित",
+    "step_details": "विवरण",
+    "step_date": "दिनांक",
+    "step_confirm": "पुष्टि करें",
+    "selected_spiritual_service": "चयनित आध्यात्मिक सेवा",
+    "premium_service_desc": "यह प्रीमियम सेवा हमारे सत्यापित पंडितों द्वारा प्रामाणिक वैदिक अनुष्ठानों के साथ की जाएगी।",
+    "use_saved_profile": "सहेजी गई प्रोफ़ाइल का उपयोग करें",
+    "continue_btn": "जारी रखें",
+    "back_btn": "पीछे जाएं",
+    "all_products": "सभी उत्पाद",
+    "exclusive_offer": "विशेष पेशकश",
+    "explore": "एक्सप्लोर करें",
+    "upcoming_festivals": "आगामी व्रत और त्यौहार",
+    "active_reminders": "सक्रिय रिमाइंडर्स",
+    "quick_puja_mantras": "त्वरित पूजा और मंत्र",
+    "premium_puja_services": "प्रीमियम पूजा सेवाएं",
+    "aarti": "आरती",
+    "view_all_aartis": "सभी आरती देखें",
+    "chalisa": "चालीसा",
+    "view_all_chalisas": "सभी चालीसा देखें",
+    "mantras": "मंत्र",
+    "view_all_mantras": "सभी मंत्र देखें",
+    "spiritual_store": "आध्यात्मिक स्टोर",
+    "buy_now": "अभी खरीदें",
+    "in_stock": "स्टॉक में",
+    "mystical_astro_dashboard": "रहस्यमय एस्ट्रो डैशबोर्ड",
+    "abhijit_muhurat": "अभिजीत मुहूर्त",
+    "rahu_kaal": "राहु काल",
+    "amrit_kaal": "अमृत काल",
+    "autofill_title": "बुकिंग विवरण ऑटोफ़िल करें",
+    "enter_manually": "मैन्युअल रूप से दर्ज करें",
+    "full_name": "पूरा नाम",
+    "gotra": "गोत्र",
+    "dob": "जन्म तिथि चुनें",
+    "is_married": "क्या आप विवाहित हैं?",
+    "puja_sankalp": "पूजा का उद्देश्य (संकल्प)",
+    "theme_notifications": "थीम और सूचनाएं",
+    "gotra_label": "गोत्र: ",
+    "rashi_label": "राशि: ",
+    "loyalty_tier": "लॉयल्टी टियर",
+    "silver_devotee": "सिल्वर भक्त",
+    "puja_vidhi": "पूजा विधि",
+    "book_now": "अभी बुक करें"
+  },
+  "alarm": {
+    "snooze": "स्नूज़ करें",
+    "turn_off": "बंद करें"
+  },
+  "profile": {
+    "title": "मेरी प्रोफ़ाइल और सेटिंग्स",
+    "sections": {
+      "account": "खाता और गतिविधि",
+      "settings": "सेटिंग्स और प्राथमिकताएं",
+      "support": "समर्थन और कानूनी"
+    },
+    "menu": {
+      "bookings": "मेरी पूजा बुकिंग",
+      "wallet": "वॉलेट और भुगतान",
+      "addresses": "सहेजे गए पते",
+      "language": "भाषा (Language)",
+      "notifications": "सूचनाएं",
+      "contact": "संपर्क समर्थन 24/7",
+      "terms": "नियम और गोपनीयता"
+    },
+    "wallet": {
+      "balance": "उपलब्ध शेष राशि",
+      "saved_methods": "सहेजे गए भुगतान के तरीके",
+      "transactions": "लेन-देन का इतिहास"
+    },
+    "logout": "लॉग आउट",
+    "login_prompt": "अपनी प्रोफ़ाइल और प्रीमियम सेवाओं को देखने के लिए लॉग इन करें।",
+    "login_btn": "लॉग इन / साइन अप",
+    "welcome": "स्वागत है,"
+  },
+  "book_now": "अभी बुक करें",
+  "price_inquiry": "मूल्य पूछताछ",
+  "checkout": {
+    "title": "सुरक्षित दिव्य चेकआउट",
+    "select_slot": "मुहूर्त और तिथि चुनें",
+    "proceed_btn": "दिव्य भुगतान के लिए आगे बढ़ें"
+  },
+  "settings": {
+    "app_preferences": "ऐप प्राथमिकताएं",
+    "app_language": "ऐप की भाषा",
+    "alarm_settings": "अलार्म सेटिंग्स",
+    "custom_reminder_sound": "कस्टम रिमाइंडर ध्वनि",
+    "default_flute": "डिफ़ॉल्ट बांसुरी"
+  }
+}
